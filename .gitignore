@@ -71,3 +71,5 @@
 dependency-reduced-pom.xml
 target/
 tests.log*
+.pre-commit-config.yaml
+trufflehog/
